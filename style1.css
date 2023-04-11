@@ -1,0 +1,59 @@
+body {
+	margin: 0;
+	padding: 0;
+	font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+	background-image: url(images/backgroundimg.webp);
+	opacity: 100px;
+	background-size: cover;
+	background-position: center;
+	background: linear-gradient(rgba 0,0,0,0.61) 100%;
+	/* background-color: black;
+	background-blend-mode: multiply; */
+}
+.login-page{
+	width: 400px ;
+	box-shadow: 0 0 3px 0 rgba(0, 0, 0, 0.3);
+	background-color: transparent;
+	padding : 30px;
+	/*margin: 8% auto 0;*/
+	text-align: left;
+	color: white;
+}
+.login-page h2{
+	color: white;
+	margin-bottom: 30px;
+}
+.input-box{
+	border-radius: 20px;
+	padding: 5px;
+	margin: 10px 0;
+	width: 100%;
+	background-color: white;
+	border: 3px solid orangered;
+	outline: none;
+	font-size: smaller;
+}
+button{
+	color: black;
+	width: 100%;
+	padding: 10px;
+	border-radius: 20px;
+	font-size: 15px;
+	margin: 10px 0;
+	border: none;
+	outline: black;
+	cursor: pointer;
+	background-color: black;
+}
+.login-btn{
+	background-color: gold;
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+.copyright{
+    position: fixed;     
+    text-align: center;    
+    bottom: 10px; 
+	right: 10px;
+    width: 100%;
+}

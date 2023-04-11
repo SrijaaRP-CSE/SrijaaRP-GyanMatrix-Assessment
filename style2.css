@@ -1,0 +1,59 @@
+body{
+    background: url(images/purple.png);
+}
+.stud-staff{
+    padding-right: 0px;
+}
+
+nav{
+    display: flex;
+    justify-content: space-between;
+}
+
+.dmb{
+    position: absolute;
+    width: 362px;
+    height: 353px;
+    left: 83px;
+    top: 136px;
+}
+
+.hag{
+    position: absolute;
+    width: 362px;
+    height: 353px;
+    left: 539px;
+    top: 136px
+}
+
+.lup{
+    position: absolute;
+    width: 362px;
+    height: 353px;
+    left: 995px;
+    top: 136px;
+}
+
+.meg{
+    position: absolute;
+    width: 362px;
+    height: 353px;
+    left: 83px;
+    top: 534px;    
+}
+
+.umb{
+    position: absolute;
+    width: 362px;
+    height: 353px;
+    left: 539px;
+    top: 534px;
+}
+
+.sna{
+    position: absolute;
+    width: 362px;
+    height: 353px;
+    left: 995px;
+    top: 534px;    
+}

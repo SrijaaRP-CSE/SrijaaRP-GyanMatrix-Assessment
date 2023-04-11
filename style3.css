@@ -1,0 +1,55 @@
+body{
+    background: url(images/purple.png);
+}
+.stud-staff{
+    padding-right: 0px;
+}
+
+nav{
+    display: flex;
+    justify-content: space-between;
+}
+.har{
+    position: absolute;
+    width: 362px;
+    height: 353px;
+    left: 83px;
+    top: 136px;
+    
+}
+.cho{
+    position: absolute;
+    width: 362px;
+    height: 353px;
+    left: 539px;
+    top: 136px;
+}
+.drc{
+    position: absolute;
+    width: 362px;
+    height: 353px;
+    left: 995px;
+    top: 136px;
+}
+.ron{
+    position: absolute;
+    width: 362px;
+    height: 353px;
+    left: 83px;
+    top: 534px;
+}
+.ced{
+    position: absolute;
+    width: 362px;
+    height: 353px;
+    left: 539px;
+    top: 534px;
+}
+.her{
+    position: absolute;
+    width: 362px;
+    height: 353px;
+    left: 995px;
+    top: 534px;
+    
+}
